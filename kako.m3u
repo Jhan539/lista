@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/HSKeS3G.png",A Son de Salsa (720p) [Not 24/7]
-http://172.16.0.1/a24281a03c28fa405eb29b54ebfe5d9b/19ca14e7ea6328a42e0eb13d585e4c22/3306/index.m3u8 #EXTINF:-1 tvg-hd="0" tvg-timeshift="0" tvg-id="3307" tvg-name="Animal Planet" tvg-logo="https://dtvsol.info/static/upload/452.png" group-title="Todo" group-icon="" tvg-order="4" tvg-category-id="138",Animal Planet
+#EXTINF:-1 group-title="Todo" group-icon="" tvg-order="4" tvg-category-id="138",Animal Planet tvg-logo="https://dtvsol.info/static/upload/452.png" http://172.16.0.1/a24281a03c28fa405eb29b54ebfe5d9b/19ca14e7ea6328a42e0eb13d585e4c22/3306/index.m3u8  
 #EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/frd60hR.png",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/P3ZFGx1.png",Canal Visión Dorada (720p) [Not 24/7]
